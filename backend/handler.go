@@ -1,4 +1,4 @@
-package Backgo
+package backgo
 
 import (
 	"html/template"

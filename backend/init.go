@@ -1,4 +1,4 @@
-package Backgo
+package backgo 
 
 import "log"
 
